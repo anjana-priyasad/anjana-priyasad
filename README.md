@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Anjana+Priyasad+👋🌿;Pro+Full-Stack+Developer+💻;Sustainable+Web+Dev+Advocate+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Anjana+Priyasad+👋🌿;Green+Full-Stack+Developer+💻;Sustainable+Web+Dev+Advocate+🌱;Eco-Business+Management+Grad+🎓" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -27,13 +27,9 @@ My specialty lies in **Sustainable Web Development** and **Green IT**. I focus o
 
 ---
 
-### 🐍 Contribution Tracker
+### 📈 Contribution Activity
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjana-priyasad/anjana-priyasad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjana-priyasad/anjana-priyasad/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anjana-priyasad/anjana-priyasad/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjana-priyasad&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff&hide_border=true&title_color=22C55E" alt="Activity Graph">
 </p>
 
 ---
