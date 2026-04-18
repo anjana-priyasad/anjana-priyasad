@@ -1,51 +1,48 @@
-# Hi there, I'm Anjana Priyasad 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Anjana+Priyasad+👋;Pro+Full-Stack+Developer+💻;Sustainable+Web+Dev+Advocate+🌱" alt="Typing SVG" />
+</h1>
 
-### 🚀 Full-stack Developer | Sustainable Web Development Enthusiast
+<p align="center">
+  <em>Crafting high-performance digital products with a zero-carbon mindset.</em>
+</p>
 
-I'm a final-year BSc (Hons) in Eco-Business Management student at Sabaragamuwa University of Sri Lanka with a passion for building efficient, eco-friendly digital solutions.
+---
 
-- 💻 **Tech Stack:** React, Next.js, Framer Motion, Python & Django.
-- 🏗️ **Currently Working On:** Scaling [careerstudio.app](https://careerstudio.app) and optimizing Green IT practices.
-- 🌱 **Interests:** Sustainable Web Development, Life Cycle Assessment (LCA) in Tech, and DevOps.
+### 🌱 About Me
+I am a professional **Full-Stack Developer** with a completed degree in **Eco-Business Management**. My unique edge is combining deep technical expertise with strong environmental consciousness. 
+
+My specialty lies in **Sustainable Web Development** and **Green IT**. I focus on writing highly optimized code, minimizing server loads, and applying Life Cycle Assessment (LCA) principles to build eco-friendly digital solutions that perform exceptionally well without leaving a heavy carbon footprint.
+
+- 🚀 **Core Stack:** React, Next.js, Framer Motion, Python & Django.
+- 💡 **Currently Building:** [careerstudio.app](https://careerstudio.app) - An AI-powered resume platform.
 - 🏆 **Recent Win:** Sansa Coding Challenge Winner.
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/>
+### 🛠️ Tech Arsenal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,py,django,tailwind,supabase,digitalocean,linux,git&theme=dark" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjana-priyasad&show_icons=true&theme=dark&hide_border=true" alt="Anjana's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjana-priyasad&show_icons=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" alt="Anjana's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjana-priyasad&layout=compact&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" alt="Top Languages" />
 </p>
+
+---
+
+### 🌿 Featured Projects
+- 🛡️ **[Safety Management System](https://github.com/anjana-priyasad/safety-management-system)** - Open-source OHS Admin Dashboard (React, Tailwind, Supabase).
+- 📊 **[FSB vs TSM Impact Calculator](https://github.com/anjana-priyasad/FSB-vs-TSM-Impact-Impact-Calculator)** - University research dashboard comparing carbon footprints.
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjana-priyasad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-- **[Safety Management System](https://github.com/anjana-priyasad/safety-management-system)** - A comprehensive OHS Admin Dashboard built with React, Tailwind CSS, and Supabase.
-- **[CareerStudio.app](https://careerstudio.app)** - AI-powered resume platform and ATS checker.
-- **[LCA Research](https://github.com/anjana-priyasad/FSB-vs-TSM-Impact-Impact-Calculator)** - Research on carbon footprint impacts between food models.
-
----
-
-### 📫 Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/anjanapriyasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjanapriyasad" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anjana-priyasad&color=22C55E&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
